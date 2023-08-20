@@ -38,7 +38,6 @@ body {
 }
 .page-header {
   background: #fff;
-  border-bottom: 1px solid #e7e9fc;
 }
 .menu-list {
   color: var(--main-color);
